@@ -11,6 +11,36 @@
 		0C10763B2836CA900044E557 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10763A2836CA900044E557 /* ContentView.swift */; };
 		0C10763D2836CA940044E557 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C10763C2836CA940044E557 /* Assets.xcassets */; };
 		0C1076402836CA940044E557 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C10763F2836CA940044E557 /* Preview Assets.xcassets */; };
+		0C10764E2836CDAE0044E557 /* FormsBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10764C2836CDAE0044E557 /* FormsBrain.swift */; };
+		0C10764F2836CDAE0044E557 /* FormsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10764D2836CDAE0044E557 /* FormsViewModel.swift */; };
+		0C1076512836CDEF0044E557 /* AllGrammarThemes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076502836CDEF0044E557 /* AllGrammarThemes.swift */; };
+		0C1076532836CE1B0044E557 /* LessonButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076522836CE1B0044E557 /* LessonButton.swift */; };
+		0C1076552836CE530044E557 /* FormTestResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076542836CE530044E557 /* FormTestResultView.swift */; };
+		0C1076632836CE610044E557 /* CompFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076562836CE600044E557 /* CompFour.swift */; };
+		0C1076642836CE610044E557 /* TitleStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076572836CE600044E557 /* TitleStack.swift */; };
+		0C1076652836CE610044E557 /* DefaultTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076582836CE600044E557 /* DefaultTitle.swift */; };
+		0C1076662836CE610044E557 /* CompTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076592836CE610044E557 /* CompTwo.swift */; };
+		0C1076672836CE610044E557 /* TitleStackFull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765A2836CE610044E557 /* TitleStackFull.swift */; };
+		0C1076682836CE610044E557 /* CompThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765B2836CE610044E557 /* CompThree.swift */; };
+		0C1076692836CE610044E557 /* GrammatThemesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765C2836CE610044E557 /* GrammatThemesList.swift */; };
+		0C10766A2836CE610044E557 /* moveNextTestButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765D2836CE610044E557 /* moveNextTestButton.swift */; };
+		0C10766B2836CE610044E557 /* CompFourOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765E2836CE610044E557 /* CompFourOne.swift */; };
+		0C10766C2836CE610044E557 /* List1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10765F2836CE610044E557 /* List1.swift */; };
+		0C10766D2836CE610044E557 /* OtherTitleTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076602836CE610044E557 /* OtherTitleTypes.swift */; };
+		0C10766E2836CE610044E557 /* List3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076612836CE610044E557 /* List3.swift */; };
+		0C10766F2836CE610044E557 /* List5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076622836CE610044E557 /* List5.swift */; };
+		0C1076712836CE6B0044E557 /* LessonButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076702836CE6B0044E557 /* LessonButton.swift */; };
+		0C10767C2836CE920044E557 /* Pronouns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076722836CE920044E557 /* Pronouns.swift */; };
+		0C10767D2836CE920044E557 /* promViewLesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076732836CE920044E557 /* promViewLesson.swift */; };
+		0C10767E2836CE920044E557 /* PastSimple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076742836CE920044E557 /* PastSimple.swift */; };
+		0C10767F2836CE920044E557 /* Adjectives.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076752836CE920044E557 /* Adjectives.swift */; };
+		0C1076802836CE920044E557 /* PresentContinuous.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076762836CE920044E557 /* PresentContinuous.swift */; };
+		0C1076812836CE920044E557 /* FutureSimple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076772836CE920044E557 /* FutureSimple.swift */; };
+		0C1076822836CE920044E557 /* ToBe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076782836CE920044E557 /* ToBe.swift */; };
+		0C1076832836CE920044E557 /* ModalVerbs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076792836CE920044E557 /* ModalVerbs.swift */; };
+		0C1076842836CE920044E557 /* PresentSimple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10767A2836CE920044E557 /* PresentSimple.swift */; };
+		0C1076852836CE920044E557 /* Prepositions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C10767B2836CE920044E557 /* Prepositions.swift */; };
+		0C1076872836CF560044E557 /* TitleTextTheme1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1076862836CF560044E557 /* TitleTextTheme1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +49,36 @@
 		0C10763A2836CA900044E557 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0C10763C2836CA940044E557 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C10763F2836CA940044E557 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0C10764C2836CDAE0044E557 /* FormsBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormsBrain.swift; sourceTree = "<group>"; };
+		0C10764D2836CDAE0044E557 /* FormsViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormsViewModel.swift; sourceTree = "<group>"; };
+		0C1076502836CDEF0044E557 /* AllGrammarThemes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AllGrammarThemes.swift; sourceTree = "<group>"; };
+		0C1076522836CE1B0044E557 /* LessonButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LessonButton.swift; sourceTree = "<group>"; };
+		0C1076542836CE530044E557 /* FormTestResultView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormTestResultView.swift; sourceTree = "<group>"; };
+		0C1076562836CE600044E557 /* CompFour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompFour.swift; sourceTree = "<group>"; };
+		0C1076572836CE600044E557 /* TitleStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleStack.swift; sourceTree = "<group>"; };
+		0C1076582836CE600044E557 /* DefaultTitle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultTitle.swift; sourceTree = "<group>"; };
+		0C1076592836CE610044E557 /* CompTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompTwo.swift; sourceTree = "<group>"; };
+		0C10765A2836CE610044E557 /* TitleStackFull.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleStackFull.swift; sourceTree = "<group>"; };
+		0C10765B2836CE610044E557 /* CompThree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompThree.swift; sourceTree = "<group>"; };
+		0C10765C2836CE610044E557 /* GrammatThemesList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GrammatThemesList.swift; sourceTree = "<group>"; };
+		0C10765D2836CE610044E557 /* moveNextTestButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = moveNextTestButton.swift; sourceTree = "<group>"; };
+		0C10765E2836CE610044E557 /* CompFourOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompFourOne.swift; sourceTree = "<group>"; };
+		0C10765F2836CE610044E557 /* List1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List1.swift; sourceTree = "<group>"; };
+		0C1076602836CE610044E557 /* OtherTitleTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OtherTitleTypes.swift; sourceTree = "<group>"; };
+		0C1076612836CE610044E557 /* List3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List3.swift; sourceTree = "<group>"; };
+		0C1076622836CE610044E557 /* List5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List5.swift; sourceTree = "<group>"; };
+		0C1076702836CE6B0044E557 /* LessonButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LessonButton.swift; path = "../../../Downloads/Проект. Часть 2/Forms/LessonsMaterial/LessonListComponents/LessonButton.swift"; sourceTree = "<group>"; };
+		0C1076722836CE920044E557 /* Pronouns.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pronouns.swift; sourceTree = "<group>"; };
+		0C1076732836CE920044E557 /* promViewLesson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = promViewLesson.swift; sourceTree = "<group>"; };
+		0C1076742836CE920044E557 /* PastSimple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PastSimple.swift; sourceTree = "<group>"; };
+		0C1076752836CE920044E557 /* Adjectives.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Adjectives.swift; sourceTree = "<group>"; };
+		0C1076762836CE920044E557 /* PresentContinuous.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresentContinuous.swift; sourceTree = "<group>"; };
+		0C1076772836CE920044E557 /* FutureSimple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FutureSimple.swift; sourceTree = "<group>"; };
+		0C1076782836CE920044E557 /* ToBe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToBe.swift; sourceTree = "<group>"; };
+		0C1076792836CE920044E557 /* ModalVerbs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalVerbs.swift; sourceTree = "<group>"; };
+		0C10767A2836CE920044E557 /* PresentSimple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresentSimple.swift; sourceTree = "<group>"; };
+		0C10767B2836CE920044E557 /* Prepositions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prepositions.swift; sourceTree = "<group>"; };
+		0C1076862836CF560044E557 /* TitleTextTheme1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleTextTheme1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +113,36 @@
 			children = (
 				0C1076382836CA900044E557 /* LangLearnApp.swift */,
 				0C10763A2836CA900044E557 /* ContentView.swift */,
+				0C10764C2836CDAE0044E557 /* FormsBrain.swift */,
+				0C10764D2836CDAE0044E557 /* FormsViewModel.swift */,
+				0C1076522836CE1B0044E557 /* LessonButton.swift */,
+				0C1076502836CDEF0044E557 /* AllGrammarThemes.swift */,
+				0C1076542836CE530044E557 /* FormTestResultView.swift */,
+				0C1076562836CE600044E557 /* CompFour.swift */,
+				0C10765E2836CE610044E557 /* CompFourOne.swift */,
+				0C10765B2836CE610044E557 /* CompThree.swift */,
+				0C1076592836CE610044E557 /* CompTwo.swift */,
+				0C1076582836CE600044E557 /* DefaultTitle.swift */,
+				0C10765C2836CE610044E557 /* GrammatThemesList.swift */,
+				0C10765F2836CE610044E557 /* List1.swift */,
+				0C1076612836CE610044E557 /* List3.swift */,
+				0C1076622836CE610044E557 /* List5.swift */,
+				0C10765D2836CE610044E557 /* moveNextTestButton.swift */,
+				0C1076602836CE610044E557 /* OtherTitleTypes.swift */,
+				0C1076572836CE600044E557 /* TitleStack.swift */,
+				0C10765A2836CE610044E557 /* TitleStackFull.swift */,
+				0C1076702836CE6B0044E557 /* LessonButton.swift */,
+				0C1076752836CE920044E557 /* Adjectives.swift */,
+				0C1076772836CE920044E557 /* FutureSimple.swift */,
+				0C1076792836CE920044E557 /* ModalVerbs.swift */,
+				0C1076742836CE920044E557 /* PastSimple.swift */,
+				0C10767B2836CE920044E557 /* Prepositions.swift */,
+				0C1076762836CE920044E557 /* PresentContinuous.swift */,
+				0C10767A2836CE920044E557 /* PresentSimple.swift */,
+				0C1076732836CE920044E557 /* promViewLesson.swift */,
+				0C1076722836CE920044E557 /* Pronouns.swift */,
+				0C1076782836CE920044E557 /* ToBe.swift */,
+				0C1076862836CF560044E557 /* TitleTextTheme1.swift */,
 				0C10763C2836CA940044E557 /* Assets.xcassets */,
 				0C10763E2836CA940044E557 /* Preview Content */,
 			);
@@ -137,8 +227,38 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C10766C2836CE610044E557 /* List1.swift in Sources */,
+				0C10766E2836CE610044E557 /* List3.swift in Sources */,
 				0C10763B2836CA900044E557 /* ContentView.swift in Sources */,
+				0C1076512836CDEF0044E557 /* AllGrammarThemes.swift in Sources */,
+				0C1076802836CE920044E557 /* PresentContinuous.swift in Sources */,
+				0C1076652836CE610044E557 /* DefaultTitle.swift in Sources */,
 				0C1076392836CA900044E557 /* LangLearnApp.swift in Sources */,
+				0C1076842836CE920044E557 /* PresentSimple.swift in Sources */,
+				0C1076532836CE1B0044E557 /* LessonButton.swift in Sources */,
+				0C10766A2836CE610044E557 /* moveNextTestButton.swift in Sources */,
+				0C1076632836CE610044E557 /* CompFour.swift in Sources */,
+				0C1076672836CE610044E557 /* TitleStackFull.swift in Sources */,
+				0C1076852836CE920044E557 /* Prepositions.swift in Sources */,
+				0C1076552836CE530044E557 /* FormTestResultView.swift in Sources */,
+				0C10766F2836CE610044E557 /* List5.swift in Sources */,
+				0C10767F2836CE920044E557 /* Adjectives.swift in Sources */,
+				0C10766B2836CE610044E557 /* CompFourOne.swift in Sources */,
+				0C1076662836CE610044E557 /* CompTwo.swift in Sources */,
+				0C1076682836CE610044E557 /* CompThree.swift in Sources */,
+				0C1076812836CE920044E557 /* FutureSimple.swift in Sources */,
+				0C10767D2836CE920044E557 /* promViewLesson.swift in Sources */,
+				0C1076832836CE920044E557 /* ModalVerbs.swift in Sources */,
+				0C1076822836CE920044E557 /* ToBe.swift in Sources */,
+				0C1076712836CE6B0044E557 /* LessonButton.swift in Sources */,
+				0C1076642836CE610044E557 /* TitleStack.swift in Sources */,
+				0C10767C2836CE920044E557 /* Pronouns.swift in Sources */,
+				0C10764F2836CDAE0044E557 /* FormsViewModel.swift in Sources */,
+				0C1076872836CF560044E557 /* TitleTextTheme1.swift in Sources */,
+				0C10766D2836CE610044E557 /* OtherTitleTypes.swift in Sources */,
+				0C10767E2836CE920044E557 /* PastSimple.swift in Sources */,
+				0C10764E2836CDAE0044E557 /* FormsBrain.swift in Sources */,
+				0C1076692836CE610044E557 /* GrammatThemesList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

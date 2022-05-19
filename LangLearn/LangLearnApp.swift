@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct LangLearnApp: App {
+    
+    @StateObject var viewModel = FormsViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //      ContentView()
+            AllGrammarThemes()
+                .environmentObject(viewModel)
         }
     }
 }
